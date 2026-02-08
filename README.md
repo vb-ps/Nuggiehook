@@ -1,6 +1,12 @@
 # nuggiehook
 
-> premium cs2 loader with auto-update protectio
+> premium cs2 loader with auto-update protection
+
+##  ui
+
+
+<img width="898" height="589" alt="image" src="https://github.com/user-attachments/assets/39edf1e8-cd05-460d-8218-bbb6267da611" />
+
 
 ##  features
 
